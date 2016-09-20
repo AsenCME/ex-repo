@@ -6,9 +6,7 @@ Some changes made...
 Some text in here.
 Content baby!!!
 
-<<<<<<< HEAD
 Our own line!
-=======
-You gotta suck a dim, m8!
+
+You gotta suck dix, m8!
 You suck!
->>>>>>> c3b62093dcd823d03abe1ffd4de8cd2eb5e6a63f
